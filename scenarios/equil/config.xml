@@ -19,6 +19,9 @@
 		<param name="outputDirectory" value="./output" />
 		<param name="firstIteration" value="0" />
 		<param name="lastIteration" value="10" />
+		
+		<!-- TODO TO BE CANCELED WHEN I SOLVE THE PROBLEM -->
+		<param name="createGraphs" value="false" />
 	</module>
 
 	<module name="qsim">
